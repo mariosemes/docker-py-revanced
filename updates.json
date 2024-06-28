@@ -1,1 +1,255 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.23.40",
+        "integrations_version": "v0.153.0",
+        "patches_version": "v2.226.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v2.226.0",
+        "ms_epoch_since_patched": 1719588929321,
+        "date_patched": "2024-06-28 15:35:29.320962+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.23.40",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/anddea/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "exclude_request": [
+                "custom-branding-icon-youtube",
+                "custom-branding-name-youtube",
+                "enable-debug-logging",
+                "hide-fullscreen-button"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "e14d86cbae399b5f17b91fc58655c22bca083357f5ffe3a81dc9e1a4a777b8b6.apk",
+                    "version": "v0.153.0"
+                },
+                "patches": {
+                    "file_name": "6fa2dbc82ead3c5b1fe9203615eee2b21d9c098e153d0a6ab86154d82bb859fb.jar",
+                    "version": "v2.226.0"
+                },
+                "patches_json": {
+                    "file_name": "aa5627e6a6aed43c75542696f58b0cba37c27b6b0846a43dd67fb5b989cf6d4f.json",
+                    "version": "v2.226.0"
+                }
+            },
+            "no_of_patches": 61,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6467419&key=b4101d14464aa2b66fbdf01c8753d2ae5f71216a&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "youtube_music": {
+        "app_version": "7-07-51-70751240",
+        "integrations_version": "v0.153.0",
+        "patches_version": "v2.226.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v2.226.0",
+        "ms_epoch_since_patched": 1719588988752,
+        "date_patched": "2024-06-28 15:36:28.751756+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "7-07-51-70751240",
+            "experiment": true,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/anddea/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "exclude_request": [
+                "custom-branding-icon-youtube-music",
+                "custom-branding-name-youtube-music",
+                "enable-compact-dialog",
+                "enable-debug-logging",
+                "enable-old-player-layout"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "e14d86cbae399b5f17b91fc58655c22bca083357f5ffe3a81dc9e1a4a777b8b6.apk",
+                    "version": "v0.153.0"
+                },
+                "patches": {
+                    "file_name": "6fa2dbc82ead3c5b1fe9203615eee2b21d9c098e153d0a6ab86154d82bb859fb.jar",
+                    "version": "v2.226.0"
+                },
+                "patches_json": {
+                    "file_name": "aa5627e6a6aed43c75542696f58b0cba37c27b6b0846a43dd67fb5b989cf6d4f.json",
+                    "version": "v2.226.0"
+                }
+            },
+            "no_of_patches": 36,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6519687&key=eec80245d3a2956235125d4f4eae1c6b68292382&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "reddit": {
+        "app_version": "2024.17.0",
+        "integrations_version": "v0.153.0",
+        "patches_version": "v2.226.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v2.226.0",
+        "ms_epoch_since_patched": 1719589019349,
+        "date_patched": "2024-06-28 15:36:59.348759+05:30",
+        "app_dump": {
+            "app_name": "reddit",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/anddea/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/anddea/revanced-patches/releases/latest",
+            "exclude_request": [
+                "change-package-name"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "e14d86cbae399b5f17b91fc58655c22bca083357f5ffe3a81dc9e1a4a777b8b6.apk",
+                    "version": "v0.153.0"
+                },
+                "patches": {
+                    "file_name": "6fa2dbc82ead3c5b1fe9203615eee2b21d9c098e153d0a6ab86154d82bb859fb.jar",
+                    "version": "v2.226.0"
+                },
+                "patches_json": {
+                    "file_name": "aa5627e6a6aed43c75542696f58b0cba37c27b6b0846a43dd67fb5b989cf6d4f.json",
+                    "version": "v2.226.0"
+                }
+            },
+            "no_of_patches": 14,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "reddit.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=4c431de7fef803edc67ecb42e2e34d4ec14c8651&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "sonyheadphone": {
+        "app_version": "10.1.0",
+        "integrations_version": "v1.11.0",
+        "patches_version": "v4.10.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.10.0",
+        "ms_epoch_since_patched": 1719589065258,
+        "date_patched": "2024-06-28 15:37:45.258082+05:30",
+        "app_dump": {
+            "app_name": "sonyheadphone",
+            "app_version": "10.1.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4871f60e7a93ea05c2763e6cc2c917b544e8f1c1216afeee61ef0e9dd91d7b62.apk",
+                    "version": "v1.11.0"
+                },
+                "patches": {
+                    "file_name": "dd972cd53ff03e2699c94243dcf8d3da42b5f198c7483ea7601be0728d35e97b.jar",
+                    "version": "v4.10.0"
+                },
+                "patches_json": {
+                    "file_name": "83b3108021f70446a0945e5af106577a21a7179c1c1c6c5d636cc0a6b9c2aa9d.json",
+                    "version": "v4.10.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "sonyheadphone.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=5072960&key=40d60e32e1738220e41669c2109d08293684ee8e",
+            "download_source": "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/",
+            "package_name": "com.sony.songpal.mdr",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "spotify": {
+        "app_version": "latest",
+        "integrations_version": "v1.11.0",
+        "patches_version": "v4.10.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.10.0",
+        "ms_epoch_since_patched": 1719589086117,
+        "date_patched": "2024-06-28 15:38:06.117035+05:30",
+        "app_dump": {
+            "app_name": "spotify",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4871f60e7a93ea05c2763e6cc2c917b544e8f1c1216afeee61ef0e9dd91d7b62.apk",
+                    "version": "v1.11.0"
+                },
+                "patches": {
+                    "file_name": "dd972cd53ff03e2699c94243dcf8d3da42b5f198c7483ea7601be0728d35e97b.jar",
+                    "version": "v4.10.0"
+                },
+                "patches_json": {
+                    "file_name": "83b3108021f70446a0945e5af106577a21a7179c1c1c6c5d636cc0a6b9c2aa9d.json",
+                    "version": "v4.10.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "spotify.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/qHRdbpr2Oair7ZKrriraUetkp6Ry_GcZgNhJEdvLefPC9OZSItVCXRRxS4TAWn10WCXS1C-UFG_W8UoTCz9aHB_gc1gZ06THI6RNNMmYSg4VS46JTTD-Rp0gRECRVkMK/r-D71get2UQLY254KOw9cNivOyOy57956toQOlrAdnar89oNowPXy7mwZ_BY-9na6-Ck0Le3PLX_DaC5uuConRIXt0RapOOjGIGQ-2tYXwMC9ClYj5_Seb5vHn3zFOeX/Py97KGjvQFTMQu7D0i0rYt1FUa2xfU2smq4u8DDG8H-ID9iFznmwb1dEDjCys_mtWZgsbxfuiLT7O7GEulW4vw==/",
+            "download_source": "https://spotify.en.uptodown.com/android",
+            "package_name": "com.spotify.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    }
+}
